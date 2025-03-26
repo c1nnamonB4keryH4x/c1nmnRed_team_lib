@@ -1,0 +1,4 @@
+https://www.exploit-db.com/searchsploit - helps with searching for vulns
+https://owasp.org/www-project-top-ten/ - top ten web vulns
+https://github.com/biggerduck/RedTeamNotes/blob/main/Flink%E5%86%99%E5%85%A5%E5%86%85%E5%AD%98%E9%A9%AC%E5%AE%9E - %E8%B7%B5-%E4%BB%A51.17.2%E7%89%88%E6%9C%AC%E4%B8%BA%E4%BE%8B.pdf - red tam notes
+https://apps.dtic.mil/sti/trecms/pdf/AD1126359.pdf - naval postgrad thesis over zerodays
